@@ -19,4 +19,4 @@ A CPU is formed by logic units, caches, registers, and pathways that come togeth
 
 When a CPU carries out an instruction, it breaks that instruction down into simpler parts, and those simpler parts into even smaller parts. Depending on the internal structure of the chip we are using, the order in which these smaller parts of the instruction are processed will vary greatly. Some of these smaller parts depend on the result other simple parts will yield within the same instruction. This causes the order at which the broken down parts of this specific instruction are processed to vary.
 
-This is a main factor for differences in performance between an AMD chip and an Intel chip clocked at the same speed.
+This is a main factor for differences in performance between an AMD chip and an Intel chip clocked at the same speed. The number of smaller steps that are done out of order, how much an instruction is broken down into simpler steps before being processed piece by piece, and the speed at which each individual part of the instruction is processed all influence the overall performance of each chip.
