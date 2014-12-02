@@ -1,6 +1,7 @@
 Status              | Topic                              |  Page
 --------------------| -----------------------------------|:-----:
-                    | Introduction                       |  1-2
+In Progress (Jack)                    | Introduction                     |  1-2
+                    | overview of what cpu is companies we are analysing and what benchmarks are | 1-2
                     | Compare Processor Clock Rates      |  2-3
 In progress (Juan)  | Analyse Clock Rate as a benchmark  |  3-4
                     | Compare CPI                        |  4-5
