@@ -8,5 +8,5 @@ In progress (Juan)        		| Compare number of cores            												|  
        combine with ^             			| Analyse cores as a benchmark       												|  5-6
 About halfish done (Jack)  			| Compare and contrast benchmarks   											 	|  6-7
 In Progress (Jake)  			| Talk about why benchmarks are used 												|  7-8
-In Progress (Jake)  			| Talk about benchmark failings      								In Progress (Jack)				|  8-9
+In Progress (Jake)  			| Talk about benchmark failings      								In Progress (Jack)		3/4 done		|  8-9
                     			| Conclusion                         												|  9-10
