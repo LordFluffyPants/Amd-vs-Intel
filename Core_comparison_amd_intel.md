@@ -13,11 +13,10 @@ From an average sample size of 331, an Intel Core i3-4350 @ 3.60GHz is compared 
 
 Performance for these chips is measured in terms of efficiency performing mathematical operations, compression, encryption, and SSE.
 
-Intel&nbsp; ![Alt text](http://i.imgur.com/pVPx70h.png)  
+Intel&nbsp; ![Alt text](http://i.imgur.com/pVPx70h.png) 
 AMD ![Alt text](http://i.imgur.com/TUqs81U.png)
 
-To further expand, from an average sample size of 5, an Intel Xeon X3460 @ 2.80GHz and an Intel Core i3-4350 @ 3.60GHz 
+To further expand, from an average sample size of 5, an Intel Xeon X3460 @ 2.80GHz is compared with an Intel Core i3-4350 @ 3.60GHz. A close to similar performance benchmark is shown for both chips despite their differing amount of cores reinstating a conclusion that the number of cores does not always determine whether a processor will outperform another one. 
 
-Based on the aforementioned comparison, a conclusion can be reached that although 
-
-Intel&nbsp; ![Alt text](http://i.imgur.com/pVPx70h.png)
+Intel Core i3 ![Alt text](http://i.imgur.com/pVPx70h.png)  
+Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)
