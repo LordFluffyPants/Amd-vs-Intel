@@ -24,9 +24,11 @@ To further expand, from an average sample size of 5 , an Intel Xeon X3460 @ 2.80
 Intel Core i3 ![Alt text](http://i.imgur.com/pVPx70h.png)  
 Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)  
 
+####Benchmark Comparison
+
 | Release Date  |      Chip Name            | Sample Size | Performance Score  | Clock Speed | Cores  | Price |
 | ------------- |:-------------------------:|:-----------:|:------------------:|:-----------:|:-----: |:-----:|
 | July 2010     | Intel Core i7-970         |  140        |    8550            | 3.20GHz     | 6      | $885  |
-| Nov 2008      | Intel Core i7-960         |  000        |    0000            | 3.20GHz     | 4      | $562  |
-| July 2010     | Intel Core i5-3330        |  000        |    0000            | 3.00GHz     | 4      | $182  |
-| January 2013  | Intel Core i3-3210        |  000        |    0000            | 3.20GHz     | 2      | $117  |
+| Nov 2008      | Intel Core i7-960         |  518        |    5940            | 3.20GHz     | 4      | $562  |
+| July 2010     | Intel Core i5-3330        |  772        |    5894            | 3.00GHz     | 4      | $182  |
+| January 2013  | Intel Core i3-3210        |  82         |    3906            | 3.20GHz     | 2      | $117  |
