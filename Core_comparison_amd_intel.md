@@ -40,5 +40,5 @@ Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)
 
 | Release Date  |      Chip Name            | Sample Size | Performance Score  | Clock Speed | Cores  | Price |
 | ------------- |:-------------------------:|:-----------:|:------------------:|:-----------:|:-----: |:-----:|
-| July 2010     | AMD FX-937                |  275        |    9590            | 4.40GHz     | 8      | $204  |
+| 2013          | AMD FX-937                |  275        |    9590            | 4.40GHz     | 8      | $204  |
 | 2011          | AMD FX-4100 Quad-Core     |  1077       |    4041            | 3.60GHz     | 4      | $101  |
