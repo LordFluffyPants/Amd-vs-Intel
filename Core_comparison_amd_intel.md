@@ -7,6 +7,7 @@ AMD and Intel Core Number Comparison
 - http://www.digitaltrends.com/computing/here-we-explain-the-basic-differences-between-intel-and-amd-cpus/
 - http://en.wikipedia.org/wiki/Comparison_of_Intel_processors
 - http://en.wikipedia.org/wiki/Intel_Core#Core_i7
+- http://www.cpu-world.com/Price_Compare/Desktop_CPU_prices_%28latest%29.html
 
 Processor performance does vary, as previously discussed, even when the processors being compared clock at the same speed. The number of cores on a processor does in part influence this.
 
@@ -26,9 +27,18 @@ Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)
 
 ####Benchmark Comparison
 
+#####Intel
+
 | Release Date  |      Chip Name            | Sample Size | Performance Score  | Clock Speed | Cores  | Price |
 | ------------- |:-------------------------:|:-----------:|:------------------:|:-----------:|:-----: |:-----:|
 | July 2010     | Intel Core i7-970         |  140        |    8550            | 3.20GHz     | 6      | $885  |
 | Nov 2008      | Intel Core i7-960         |  518        |    5940            | 3.20GHz     | 4      | $562  |
 | July 2010     | Intel Core i5-3330        |  772        |    5894            | 3.00GHz     | 4      | $182  |
 | January 2013  | Intel Core i3-3210        |  82         |    3906            | 3.20GHz     | 2      | $117  |
+
+#####AMD
+
+| Release Date  |      Chip Name            | Sample Size | Performance Score  | Clock Speed | Cores  | Price |
+| ------------- |:-------------------------:|:-----------:|:------------------:|:-----------:|:-----: |:-----:|
+| July 2010     | AMD FX-937                |  275        |    9590            | 4.40GHz     | 8      | $204  |
+| 2011          | AMD FX-4100 Quad-Core     |  1077       |    4041            | 3.60GHz     | 4      | $101  |
