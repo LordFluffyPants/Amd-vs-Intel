@@ -6,6 +6,7 @@ AMD and Intel Core Number Comparison
 - http://www.passmark.com/products/pt.htm
 - http://www.digitaltrends.com/computing/here-we-explain-the-basic-differences-between-intel-and-amd-cpus/
 - http://en.wikipedia.org/wiki/Comparison_of_Intel_processors
+- http://en.wikipedia.org/wiki/Intel_Core#Core_i7
 
 Processor performance does vary, as previously discussed, even when the processors being compared clock at the same speed. The number of cores on a processor does in part influence this.
 
@@ -23,6 +24,9 @@ To further expand, from an average sample size of 5 , an Intel Xeon X3460 @ 2.80
 Intel Core i3 ![Alt text](http://i.imgur.com/pVPx70h.png)  
 Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)  
 
-| Release Date  |      Chip Name            | Sample Size | Performance Score  | Clock Speed | Cores  |
-| ------------- |:-------------------------:|:-----------:|:------------------:|:-----------:|:-----: |
-| July 2010     | Intel Core i7-970         |  140        |    8550            | 3.20GHz     | 6
+| Release Date  |      Chip Name            | Sample Size | Performance Score  | Clock Speed | Cores  | Price |
+| ------------- |:-------------------------:|:-----------:|:------------------:|:-----------:|:-----: |:-----:|
+| July 2010     | Intel Core i7-970         |  140        |    8550            | 3.20GHz     | 6      | $885  |
+| Nov 2008      | Intel Core i7-960         |  000        |    0000            | 3.20GHz     | 4      | $562  |
+| July 2010     | Intel Core i5-3330        |  000        |    0000            | 3.00GHz     | 4      | $182  |
+| January 2013  | Intel Core i3-3210        |  000        |    0000            | 3.20GHz     | 2      | $117  |
