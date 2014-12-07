@@ -46,6 +46,7 @@ Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)
 | 2012          | AMD FX-4100               |  1077       |    4041            | 3.60GHz     | 4      | $101  |
 
 ![Alt text](http://i.imgur.com/lChhJRL.png)
+![Alt text](http://i.imgur.com/ksOGMbd.png)
 
 The box plot above is a graphical comparison of performance scores in the Intel and AMD chips showcased in the data tables provided.
 
