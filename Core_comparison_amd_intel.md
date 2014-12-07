@@ -48,3 +48,12 @@ Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)
 ![Alt text](http://i.imgur.com/lChhJRL.png)
 
 The box plot above is a graphical comparison of performance scores in the Intel and AMD chips showcased in the data tables provided.
+
+#####Ratio of Clock Speed to Price (AMD)
+
+| Release Date  |      Chip Name            | (Clock Speed / Price) Ratio |
+| ------------- |:-------------------------:|:---------------------------:|
+| 2013          | AMD FX-937                |  0.02157                    |
+| 2011          | AMD FX-8150               |  0.01967                    |
+| 2011          | AMD FX-8350               |  0.02312                    |
+| 2012          | AMD FX-4100               |  0.03564                    |
