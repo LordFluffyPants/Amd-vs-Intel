@@ -49,6 +49,17 @@ Intel Xeon&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](http://i.imgur.com/nQY5b9j.png)
 
 The box plot above is a graphical comparison of performance scores in the Intel and AMD chips showcased in the data tables provided.
 
+#####Further comparison of Processor Speed to Value
+
+#####Ratio of Clock Speed to Price (Intel)
+
+| Release Date  |      Chip Name            | (Clock Speed / Price) Ratio |
+| ------------- |:-------------------------:|:---------------------------:|
+| July 2010     | Intel Core i7-970         |  0.00362                    |
+| Nov 2008      | Intel Core i7-960         |  0.00569                    |
+| July 2010     | Intel Core i5-3330        |  0.01648                    |
+| January 2013  | Intel Core i3-3210        |  0.02735                    |
+
 #####Ratio of Clock Speed to Price (AMD)
 
 | Release Date  |      Chip Name            | (Clock Speed / Price) Ratio |
